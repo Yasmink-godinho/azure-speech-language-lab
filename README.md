@@ -45,12 +45,6 @@ Este repositório documenta minha experiência no laboratório da DIO, utilizand
 
 ---
 
-## 📷 Capturas de Tela (opcional)
-
-Caso queira ver imagens da prática, você pode adicioná-las na pasta `/images`.
-
----
-
 ## 🔗 Referências
 
 - [Documentação oficial do Speech Studio](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/)
