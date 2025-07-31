@@ -1,45 +1,63 @@
-# Laboratório de Análise de Fala e Linguagem com Azure
+# 🎙️ Laboratório: Azure Speech Studio e Language Studio
 
-Este repositório contém a documentação das práticas realizadas no laboratório da DIO, utilizando o **Azure Speech Studio** e o **Language Studio**.
+Este repositório documenta minha experiência no laboratório da DIO, utilizando o **Azure Speech Studio** e o **Language Studio**. O objetivo principal foi aplicar na prática conceitos de **inteligência artificial aplicada à fala e linguagem natural**.
 
-## 📌 Objetivo
+---
 
-Aplicar os conceitos aprendidos sobre inteligência artificial voltada à fala e linguagem natural, utilizando as ferramentas da Azure para:
+## ✅ Objetivo do Desafio
 
-- Análise e síntese de fala
-- Processamento de linguagem natural
-- Geração de insights a partir de textos e áudios
+- Aplicar conceitos de IA em projetos práticos com foco em **voz e linguagem**;
+- Explorar o funcionamento do **Azure Speech Studio** e do **Language Studio**;
+- Documentar o processo técnico e os aprendizados;
+- Utilizar o GitHub como repositório técnico.
+
+---
 
 ## 🛠️ Ferramentas Utilizadas
 
 - [Azure Speech Studio](https://speech.microsoft.com/)
 - [Azure Language Studio](https://language.azure.com/)
-- [GitHub](https://github.com)
-- VS Code
+- GitHub
+- VS Code (para edição do repositório)
 
-## 🧪 Etapas Realizadas
+---
 
-### 🎙️ Speech Studio
-- Criação de projeto de conversão de texto para fala (Text-to-Speech)
-- Testes com diferentes vozes e idiomas
-- Análise de qualidade da fala gerada
+## 🧪 Atividades Realizadas
 
-### 🧠 Language Studio
-- Criação de projeto de análise de sentimentos e entidade
-- Upload de arquivos de texto
-- Extração de informações com base em IA
+### 1. Speech Studio
+- Criação de projeto de conversão de **Texto para Fala (Text-to-Speech)**;
+- Testes com diferentes vozes e sotaques;
+- Ajustes de entonação, pausa e pronúncia.
 
-## 📝 Aprendizados
+### 2. Language Studio
+- Análise de **sentimentos** em textos;
+- Extração de **entidades nomeadas** (pessoas, locais, organizações);
+- Exploração dos recursos de **classificação de texto** e **análise de opinião**.
 
-- A prática com o Azure Speech Studio me permitiu entender melhor como funcionam sistemas de voz baseados em IA.
-- O Language Studio mostrou-se muito eficaz na análise semântica de textos e reconhecimento de entidades.
-- Reforcei o uso de Markdown e versionamento com Git.
+---
 
-## 📚 Referências
+## 📚 Aprendizados
+
+- Entendi como a IA pode ser usada para **compreender e gerar linguagem natural**;
+- Aprendi a personalizar vozes usando o Speech Studio;
+- Vi na prática como a análise de sentimentos e entidades pode ser aplicada a dados reais;
+- Reforcei boas práticas de documentação técnica com Markdown e GitHub.
+
+---
+
+## 📷 Capturas de Tela (opcional)
+
+Caso queira ver imagens da prática, você pode adicioná-las na pasta `/images`.
+
+---
+
+## 🔗 Referências
 
 - [Documentação oficial do Speech Studio](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/)
 - [Documentação do Language Studio](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/overview)
-- [Curso DIO - Inteligência Artificial com Azure](https://web.dio.me)
+- [GitHub Docs](https://docs.github.com/)
+- [Formação DIO - IA com Azure](https://web.dio.me)
 
+---
 
-Feito com 💙 por Yasmin Godinho
+Feito por [Yasmin Godinho](https://github.com/Yasmink-godinho)
