@@ -15,7 +15,7 @@ Aplicar os conceitos aprendidos sobre inteligência artificial voltada à fala e
 - [Azure Speech Studio](https://speech.microsoft.com/)
 - [Azure Language Studio](https://language.azure.com/)
 - [GitHub](https://github.com)
-- VS Code (opcional para edição de Markdown)
+- VS Code
 
 ## 🧪 Etapas Realizadas
 
